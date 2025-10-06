@@ -4,8 +4,8 @@
   <ShortName>AI Safety Atlas</ShortName>
   <Description>Search AI Safety Atlas</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://ai-safety-atlas.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://ai-safety-atlas.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://ai-safety-atlas.com/opensearch.xml" />
-  <moz:SearchForm>https://ai-safety-atlas.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://centresecuriteia.github.io/aisafety_atlas_multilingual_website/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://centresecuriteia.github.io/aisafety_atlas_multilingual_website/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://centresecuriteia.github.io/aisafety_atlas_multilingual_website/opensearch.xml" />
+  <moz:SearchForm>https://centresecuriteia.github.io/aisafety_atlas_multilingual_website/</moz:SearchForm>
 </OpenSearchDescription>
