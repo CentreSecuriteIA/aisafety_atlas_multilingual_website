@@ -5,4 +5,4 @@ Currenly not officialy hosted : available for local checking only [here](https:/
 
 Monolingual version available at [https://ai-safety-atlas.com/]
 
-Generated with the code in the repository [AI Safety Atlas multilingual website](https://github.com/CentreSecuriteIA/aisafety_atlas_multilingual)
+Generated with the code in the repository [AI Safety Atlas multilingual](https://github.com/CentreSecuriteIA/aisafety_atlas_multilingual)
